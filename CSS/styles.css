@@ -63,7 +63,7 @@ main {
 }
 
 .post-header {
-    width: 80%;
+    width: 60%;
     margin: 0 auto 10px auto;
 }
 
@@ -84,6 +84,10 @@ main {
     display: block;
     margin: 0 auto 60px auto;
     border-radius: 8px;
+}
+
+.cycle-slideshow img {
+width: 100%;
 }
 
 .content {
